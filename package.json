@@ -253,6 +253,7 @@
     "yargs-parser": "^20.2.9"
   },
   "scripts": {
+    "start": "node ./src/sorted.js",
     "test": "jest --watchAll"
   },
   "author": "",
